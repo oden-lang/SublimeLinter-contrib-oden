@@ -16,7 +16,7 @@ from SublimeLinter.lint import Linter, util
 class Oden(Linter):
     """Provides an interface to oden."""
 
-    syntax = ('Oden', 'oden')
+    syntax = ('oden')
     cmd = ('oden', 'lint')
     version_args = '--version'
     version_re = r'(?P<version>\d+\.\d+\.\d+)'
