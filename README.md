@@ -1,11 +1,9 @@
 SublimeLinter-contrib-oden
 ================================
 
-# This README is a work in progress. Please ignore it for the time being #
+[![Build Status](https://travis-ci.org/oden-lang/SublimeLinter-contrib-oden.svg?branch=master)](https://travis-ci.org/oden-lang/SublimeLinter-contrib-oden)
 
-[![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-oden.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-oden)
-
-This linter plugin for [SublimeLinter][docs] provides an interface to [oden](http://oden-lang.org/). It will be used with files that have the “oden” syntax.
+This linter plugin for [SublimeLinter][docs] provides an interface to linting with [oden](http://oden-lang.org/). It will be used with files that have the “oden” syntax.
 
 ## Installation
 SublimeLinter 3 must be installed in order to use this plugin. If SublimeLinter 3 is not installed, please follow the instructions [here][installation].
