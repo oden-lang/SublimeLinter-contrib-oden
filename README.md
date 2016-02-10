@@ -20,8 +20,14 @@ Once you have installed and configured `oden`, you can proceed to install the Su
 
 ### Plugin installation
 
-    Note: SublimeLinter-contrib-oden is still not available at package control.
-    Installation instructions below are for future use.
+#### Until this plugin is published at Package Control, you can install it by just cloning this github repo in Sublime's Package folder:
+
+1. Find the Package folder. On OSX, you can choose `Sublime Text->Preferences->Browse Packages...` from the menu.
+1. Open a terminal in that folder.
+1. Clone this repo with `git clone https://github.com/oden-lang/SublimeLinter-contrib-oden.git`. Be careful to keep the default folder name.
+
+#### End of temporary installation instructions
+
 
 Please use [Package Control][pc] to install the linter plugin. This will ensure that the plugin will be updated when new versions are available. If you want to install from source so you can modify the source code, you probably know what you are doing so we won’t cover that here.
 
