@@ -1,0 +1,10 @@
+SublimeLinter-contrib-oden
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to oden.
+
+** IMPORTANT! **
+
+Before this plugin will activate, you *must*
+follow the installation instructions here:
+
+https://github.com/Albin Theander/SublimeLinter-contrib-oden
