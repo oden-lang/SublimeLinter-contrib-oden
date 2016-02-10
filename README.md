@@ -1,6 +1,8 @@
 SublimeLinter-contrib-oden
 ================================
 
+# This README is a work in progress. Please ignore it for the time being #
+
 [![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-oden.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-oden)
 
 This linter plugin for [SublimeLinter][docs] provides an interface to [oden](__linter_homepage__). It will be used with files that have the “__syntax__” syntax.
