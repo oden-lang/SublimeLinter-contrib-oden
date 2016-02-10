@@ -20,7 +20,7 @@ class Oden(Linter):
     cmd = ('oden', 'lint')
     version_args = '--version'
     version_re = r'(?P<version>\d+\.\d+\.\d+)'
-    version_requirement = '>= 0.0'
+    version_requirement = '>= 0.3.0'
     regex = r'[^:]*:(?P<line>\d+):(?P<col>\d+):\s*(?P<error>error:)?\s+(?P<message>.*)'
     tempfile_suffix = 'oden'
     error_stream = util.STREAM_BOTH
